@@ -1,4 +1,4 @@
-redence – HR Workflow Designer
+Tredence – HR Workflow Designer
 Architecture
 
 This project is built using a Frontend + Mock Backend architecture.
